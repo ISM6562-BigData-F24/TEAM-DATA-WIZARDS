@@ -1,0 +1,7 @@
+# Zeina Kamal
+
+![Zeina's Image](zeina_image.jpeg)
+
+## Introduction
+
+Zeina Kamal is currently pursuing a Master of Science in Artificial Intelligence and Business Analytics at the University of South Florida, expected to graduate in December 2024. She holds a Bachelor of Science in Business Analytics & Information Systems from the same institution, awarded in May 2022. She has held roles as a Graduate Assistant at USF, where she spearheaded program reviews and conducted comprehensive data analyses to improve academic offerings and career services. Her professional experience includes working as a Business Intelligence Analyst at 22Squared, where she developed interactive dashboards using Tableau and provided actionable insights to clients like Publix, AdventHealth, and Grammarly. She has also worked as a Data Analyst Student Assistant at USF, focusing on data visualization and reporting. Zeina’s technical skills span programming languages such as R, Python, SQL, C++, and C#, as well as a range of software tools like Tableau, Power BI, Looker, and Salesforce Datorama. She is also experienced in ETL processes, data warehousing, and statistical analysis. Additionally, Zeina has applied her expertise in app development, having created ShopSmart, a mobile app aimed at informing consumers about companies' environmental and social impacts. Her career interests lie at the intersection of data analytics, business strategy, and sustainability, and she is passionate about using her technical skills to drive data-informed decision-making.
