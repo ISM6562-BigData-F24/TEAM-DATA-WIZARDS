@@ -1,6 +1,6 @@
 # HEMA EDAVALAPATI
 
-![Hema's Image](HemaImage.jpg)
+![Hema's Image](HemaImage.jpeg)
 
 
 
